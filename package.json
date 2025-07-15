@@ -26,6 +26,9 @@
     "type": "git",
     "url": "https://github.com/redhat-developer/yaml-language-server.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "dependencies": {
     "@vscode/l10n": "^0.0.9",
     "ajv": "^8.17.1",
